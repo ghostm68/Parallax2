@@ -21,20 +21,20 @@ padding: 0;
   height: 100vh;
 }
 .parallax .bg__foo {
- background-image: url(https://raw.githubusercontent.com/ghostm68/wxy/main/_data/raw_images/inkrealm/obj10.jpg);
+ background-image: url(https://raw.githubusercontent.com/ghostm68/pantheon/main/vsco_080923.jpg);
 }
 .parallax .bg__bar {
   background-image: url(./VAPORGRAM1694868226999.gif);
 }
 .parallax .bg__baz {
-  background-image: url(https://raw.githubusercontent.com/ghostm68/wxy/main/_data/raw_images/inkrealm/obj10.jpg);
+  background-image: url(https://raw.githubusercontent.com/ghostm68/pantheon/main/vsco_080923.jpg);
 }
 .parallax .bg__bazz {
   background-image: url(./VAPORGRAM1694868226999.gif);
 }
 .parallax .bg__break {
   box-shadow: inset 0 0 1em #111;
-  background-image: url(https://raw.githubusercontent.com/ghostm68/wxy/main/_data/raw_images/inkrealm/obj10.jpg);
+  background-image: url(https://raw.githubusercontent.com/ghostm68/pantheon/main/vsco_080923.jpg);
 }
 .parallax .capture {
   float: right;
